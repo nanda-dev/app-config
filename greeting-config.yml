@@ -14,4 +14,4 @@ logging:
 greeting:
   displayFortune: false
 
-quoteServiceURL: http://fortune-service-unsyllogistic-septicaemia.cfapps.io/
+quoteServiceURL: http://fortune-service-unsyllogistic-septicaemia.cfapps.io
